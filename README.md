@@ -1,4 +1,4 @@
-# ipv6-ddns love1@mail.bitcl.win
+# ipv6-ddns  
 使用cloudflare api，api文档参照https://api.cloudflare.com/  
 原则上传统的ddns插件代码能满足大家需求，但是由于ipv4内网化趋势，运营商基本不在下发给个人用户公有ipv4地址。  
 呐，现在大家都用nas，远程主机等，还是需要这个的。在服务器上使用过内网穿透，但是效率和方便性都不够。偶然发现各运营商都已经普及ipv6，计划直接走ipv6ddns。  
